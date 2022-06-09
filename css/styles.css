@@ -1,0 +1,41 @@
+body{
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 15%;
+}
+.card{
+    text-align: center;
+}
+.img{
+    display: block;
+    margin: 0 auto;
+    width: 330px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.crad-header{
+    font-weight: 700;
+}
+.card-text{
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
+.grid{
+    background-color: white;
+    width: 350px;
+    border-radius: 10px;
+}
+/* .grid-item{
+    
+} */
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+}
